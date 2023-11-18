@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { acm, tnp, he } from "../assets/images";
 import {
     car,
     contact,
@@ -111,55 +111,39 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
-        iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "React Native Developer",
-        company_name: "Tesla",
-        icon: tesla,
+        title: "Frontend Developer Intern",
+        company_name: "HappilyEver Startup",
+        icon: he,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Sep 2022 - Jan 2023",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Worked with the Founder to deliver product requirements. Expressively used info-graphics to display data.",
+            "Joined our Engineering team and be involved in Front End Development - React with a Go Backend.",
+            "Took initiative to improve system’s software architecture, UI, UX, scalability and performance.",
         ],
     },
     {
-        title: "Web Developer",
-        company_name: "Shopify",
-        icon: shopify,
+        title: "Web Designer",
+        company_name: "TNP",
+        icon: tnp,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Feb 2022 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
             "Implementing responsive design and ensuring cross-browser compatibility.",
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
+        title: "Content Creator",
+        company_name: "ACM",
+        icon: acm,
         iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "Feb 2022 - Present",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Created standardised templates for content on various platforms using Canva.",
+            "Worked on rebranding various social media pages, such as Facebook, LinkedIn, YouTube, Instagram, and Twitter.",
+            "Content writing on various trending technical topics(Bitcoin, NFT...).",
         ],
     },
 ];
