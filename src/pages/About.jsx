@@ -45,14 +45,6 @@ const About = () => {
             </div>
           ))}
         </div>
-
-        <div className='mt-5 flex flex-col gap-3 text-slate-500'>
-          <p>
-            In my web development journey, I've delved into a range of web development technologies and programming languages. 
-            From mastering the basics of HTML, CSS, and JavaScript to popular UI libraries like React.js and diving into advanced frameworks 
-            like Next.js and Flask. I've built a solid foundation in the tools that power modern web applications.
-          </p>
-        </div>
       </div>
 
       <div className='py-16'>
