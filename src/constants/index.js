@@ -113,9 +113,9 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "Sep 2022 - Jan 2023",
         points: [
-            "Worked with the Founder to deliver product requirements. Expressively used info-graphics to display data.",
+            "Worked with the Founder to deliver product requirements.",
             "Joined our Engineering team and be involved in Front End Development - React with a Go Backend.",
-            "Took initiative to improve system’s software architecture, UI, UX, scalability and performance.",
+            "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
     {
@@ -164,6 +164,13 @@ export const socialLinks = [
 
 export const projects = [
     {
+        iconUrl: css,
+        theme: 'btn-back-black',
+        name: 'UI/UX | Figma - Anubhav-Bharat',
+        description: 'I crafted a intuitive UI/UX design on Figma, seamlessly blending aesthetics with user functionality. Translated the design into a seamless and responsive web application.',
+        link: 'https://shorturl.at/sH058',
+    },
+    {
         iconUrl: mui,
         theme: 'btn-back-black',
         name: 'Travel Website - Frontend',
@@ -178,17 +185,10 @@ export const projects = [
         link: 'https://github.com/nishant-decode/Trazler',
     },
     {
-        iconUrl: pricewise,
+        iconUrl: express,
         theme: 'btn-back-black',
-        name: 'Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
-    },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-black',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        name: 'Rest-API | Node.js',
+        description: 'Developed a robust REST API for user authentication utilising Node.js, Express, TypeScript, and MongoDB. Implemented secure and seamless authentication processes.',
+        link: 'https://github.com/nishant-decode/rest-api-node',
     }
 ];
