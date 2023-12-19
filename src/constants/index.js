@@ -171,18 +171,18 @@ export const projects = [
         link: 'https://shorturl.at/sH058',
     },
     {
-        iconUrl: mui,
+        iconUrl: react,
         theme: 'btn-back-black',
-        name: 'Travel Website - Frontend',
+        name: 'Anubhav-Bharat | Tourism-Website',
         description: 'Developed a web application using React.js and MUI for travelers to book guides and learn about different tourism spots in Delhi.',
-        link: 'https://github.com/nishant-decode/AnubhavBharat',
+        link: 'https://anubhav-bharat.vercel.app/',
     },
     {
         iconUrl: nextjs,
         theme: 'btn-back-black',
-        name: 'Airbnb Clone - Trazler',
+        name: 'Trazler | Airbnb-Clone',
         description: 'Created a full-stack replica of the popular home rental platform "Airbnb," enabling users to book and rent out properties.',
-        link: 'https://github.com/nishant-decode/Trazler',
+        link: 'https://trazler.vercel.app/',
     },
     {
         iconUrl: express,
