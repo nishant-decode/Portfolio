@@ -111,7 +111,7 @@ export const experiences = [
         company_name: "HappilyEver Startup",
         icon: he,
         iconBg: "#fbc3bc",
-        date: "Sep 2022 - Jan 2023",
+        date: "Sep 2022 - Oct 2022",
         points: [
             "Worked with the Founder to deliver product requirements.",
             "Joined our Engineering team and be involved in Front End Development - React with a Go Backend.",
