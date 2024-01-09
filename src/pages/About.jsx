@@ -24,7 +24,7 @@ const About = () => {
         <p>
           Third-year tech college student with a strong passion for web development. Over the past few years, 
           I've been actively exploring the ins and outs of this dynamic field, balancing coursework with hands-on 
-          experiences through personal projects and internships at small startups.
+          experiences through personal projects and internships.
         </p>
       </div>
 
@@ -51,9 +51,9 @@ const About = () => {
         <h3 className='subhead-text'>Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-          I've actively sought opportunities to apply my knowledge in practical settings, and my internships at 
-          small startups have been instrumental in my growth. I've had the chance to contribute to the development 
-          of real products, collaborating with cross-functional teams to deliver solutions that align with user and 
+          I've actively sought opportunities to apply my knowledge in practical settings, and my internships 
+          have been instrumental in my growth. I've had the chance to contribute to the development 
+          of real products, collaborating with teams to deliver solutions that align with user and 
           business needs.
           Here's the rundown:
           </p>
