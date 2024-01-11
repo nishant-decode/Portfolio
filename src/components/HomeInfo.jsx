@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          I've been actively exploring this dynamic field, <br /> balancing coursework with hands-on experiences through personal projects and internships at small startups.
+          I've been actively exploring this dynamic field, <br /> balancing coursework with hands-on experiences through personal projects and practical experience.
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
